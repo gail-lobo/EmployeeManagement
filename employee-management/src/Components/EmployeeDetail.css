@@ -1,0 +1,33 @@
+
+.employee-detail-container { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+  
+  .employee-detail-container .card {
+    width: 80%;
+    margin: 10px auto;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+ .employee-detail-container .card-title {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+ .employee-detail-container .card-body {
+    font-size: 1.2em;
+  }
+  
+  .employee-detail-container .detail-value {
+    font-size: 0.9em;
+    margin-right: 5px;
+  }
+  
+ .employee-detail-container .btn {
+    margin-top: 20px;
+  }
+  

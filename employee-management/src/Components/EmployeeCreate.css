@@ -1,0 +1,12 @@
+.card{
+    text-align: left;
+}
+
+.card-title{
+    padding-left: 15px;
+}
+
+.card-body .col-lg-12{
+    margin-bottom: 12px;
+}
+
